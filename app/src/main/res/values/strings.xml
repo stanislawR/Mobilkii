@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email_textbox">Email</string>
+    <string name="password_textbox">Hasło</string>
+    <string name="login">Login</string>
+    <string name="log_in">Zaloguj się</string>
+    <string name="register">Rejestracja</string>
+    <string name="cancel">Anuluj</string>
+    <string name="invalid_login">Błędny login</string>
+    <string name="invalid_password">Błędne hasło</string>
+    <string name="invalid_email">Błędny email</string>
+
+    <string-array name="faculty">
+        <item>FTIMS</item>
+        <item>BAIS</item>
+        <item>BiNoŻ</item>
+        <item>IFE</item>
+        <item>KGP</item>
+        <item>Mechaniczny</item>
+        <item>WEEIA</item>
+        <item>WIPOS</item>
+        <item>WTMiWT</item>
+        <item>WZIP</item>
+    </string-array>
+
+    <string name="play">Graj</string>
+    <string name="show_questions">Pokaż pytania</string>
+    <string name="question">Pytanie</string>
+    <string name="answer">Odpowiedź</string>
+    <string name="add">Dodaj</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="questions_type">Typ pytania:</string>
+    <string name="add_question">Dodaj pytanie</string>
+    <string name="question_test">Testowe</string>
+    <string name="question_number">Liczbowe</string>
+</resources>
