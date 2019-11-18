@@ -2,7 +2,7 @@
     <string name="app_name">My Application</string>
     <string name="email_textbox">Email</string>
     <string name="password_textbox">Hasło</string>
-    <string name="login">Login</string>
+    <string name="login">Nazwa użytkownika</string>
     <string name="log_in">Zaloguj się</string>
     <string name="register">Rejestracja</string>
     <string name="cancel">Anuluj</string>
