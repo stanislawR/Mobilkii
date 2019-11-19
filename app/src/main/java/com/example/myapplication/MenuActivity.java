@@ -19,10 +19,23 @@ public class MenuActivity extends AppCompatActivity {
                 openAddActivity();
             }
         });
+
+        findViewById(R.id.buttonPlay).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openMapActivity();
+            }
+        });
     }
 
     protected void openAddActivity(){
         Intent intent = new Intent(this, AddQuestionActivity.class);
+        startActivity(intent);
+        finish();
+    }
+
+    protected void openMapActivity(){
+        Intent intent = new Intent(this, MapActivity.class);
         startActivity(intent);
         finish();
     }

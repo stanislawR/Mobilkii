@@ -1,4 +1,8 @@
 <resources>
+    <!--> Token mapBox<!-->
+    <string name="mapbox_access_token">pk.eyJ1Ijoic3RhbmlzbGF3ciIsImEiOiJjazM2N3U3eWgwZjFnM2Rxamt3aGk1OTJ5In0.lIfYlJ9rjI9p0Z25eDWKcg</string>
+
+
     <string name="app_name">My Application</string>
     <string name="email_textbox">Email</string>
     <string name="password_textbox">Hasło</string>
